@@ -1,4 +1,4 @@
 # to build image 
  docker-compose up --build
 # to run in background
- docker-compose up  
+ docker-compose up -d
